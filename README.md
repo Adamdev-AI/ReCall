@@ -60,8 +60,8 @@ The science is clear: testing yourself is not just a way to measure learning—i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Adamdev-AI/ReCallForge-v1.git
-cd ReCallForge-v1
+git clone https://github.com/Adamdev-AI/ReCall.git
+cd ReCall
 ```
 
 ### 2. Install the required packages
