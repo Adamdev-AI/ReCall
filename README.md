@@ -64,13 +64,7 @@ git clone https://github.com/Adamdev-AI/ReCall.git
 cd ReCall
 ```
 
-### 2. Install the required packages
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Create a Groq API key
+### 2. Create a Groq API key
 
 Visit:
 
@@ -78,7 +72,7 @@ https://console.groq.com/keys
 
 Create a free API key.
 
-### 4. Configure your API key
+### 3. Configure your API key
 
 Open the `api.env` file and replace:
 
@@ -88,7 +82,7 @@ GROQ=your_api_key_here
 
 with your own API key.
 
-### 5. Run the application
+### 4. Run the application
 
 ```bash
 python main.py
