@@ -116,8 +116,6 @@ Insert the information you want to remember and press **Add**.
 
 Your information will automatically be saved.
 
-<img width="1366" height="768" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/c105c68e-2144-4cb7-99c5-46bbf055fee6" />
-
 ---
 
 ### Step 2: Study With AI
@@ -125,8 +123,6 @@ Your information will automatically be saved.
 Go back to the Home page and start chatting with the AI.
 
 The AI will use your stored information to generate questions and help you practice active recall.
-
-<img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/2fa04d0d-b372-4d03-82e9-b815ded1a39b" />
 
 That's it—simple and effective.
 
